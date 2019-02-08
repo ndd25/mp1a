@@ -9,5 +9,6 @@
 
 $myIp = getHostByName(getHostName());
 echo $myIp;
+echo 'text1';
 
 ?>
