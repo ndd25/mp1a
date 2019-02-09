@@ -6,9 +6,5 @@
  * Time: 8:19 PM
  */
 
-
-$myIp = getHostByName(getHostName());
-echo $myIp;
-echo 'text1';
-
+echo 'Hello World'
 ?>
