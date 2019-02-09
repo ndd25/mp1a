@@ -20,7 +20,7 @@ class main{
 class csv{
     static public function getRecords(){
 
-        $make = 'Lambo';
+        $make = 'Lambo1';
         $model = 'Bling Wagon';
         $car = AutomobileFactory::create($make, $model);
 
